@@ -23,17 +23,19 @@ The following command was used to generate a coverage report: coverage run --sou
 
 ### Individual tests
 
-<The following is supposed to be repeated for each function (2 in total)>
+Function 1
 
-<Function 1>
-
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced tests for function 1>
+https://github.com/FilipVacek/cookiecutter/commit/000273602258b800ba91fc1b3134b80d45266eca
 
 <img width="709" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/3fd0ceee-904f-47a6-8431-bcd6c019edaf">
 
 <img width="722" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/b54d9465-b3dc-4869-8341-b50a073f1682">
 
-<State the coverage improvement with a number and elaborate on why the coverage is improved>
+The is_copy_only_path function, which was previously flagged as missed, has been given its own test. The coverage of the 'generate' module has improved by 4%, the coverage of the entire project has improved by 1%.
+
+Function 2
+
+
 
 ### Overall
 
