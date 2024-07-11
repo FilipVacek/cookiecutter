@@ -35,7 +35,9 @@ The is_copy_only_path function, which was previously flagged as missed, has been
 
 Function 2
 
+<img width="722" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/b54d9465-b3dc-4869-8341-b50a073f1682">
 
+<img width="710" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/cafd1ae7-5195-4500-a245-a7e428845ed2">
 
 ### Overall
 
