@@ -12,12 +12,14 @@ Programming language: Python
 
 ## Coverage measurement with existing tool
 
-The tool used to measure coverage: Coverage.py
+The tool used to measure coverage: Coverage.py, pytest
 
 The following command was used to generate a coverage report: coverage run --source tests -m unittest discover && coverage report
 
 <img width="678" alt="Screenshot 2024-07-11 162819" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/469e1446-172b-4660-9724-d4207e7013cb">
 <img width="425" alt="Screenshot 2024-07-11 162438" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/38bb29d6-6188-41e8-ad7c-3b58f8b38538">
+
+Disclaimer: I do not believe the coverage.py numbers are accurate, as pytest used later on in the functions lists different numbers (the official project documentation does not mention coverage, so I cannot be sure of any of the numbers really). I have installed all the test dependencies listed by the project and this is the final number I got. 
 
 ## Coverage improvement
 
@@ -45,6 +47,6 @@ The render_variable function from the 'prompt' module was flagged as missing, so
 
 ### Overall
 
-<Provide a screenshot of the old coverage results by running an existing tool (the same as you already showed at the beginning of the report)>
+<img width="709" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/3fd0ceee-904f-47a6-8431-bcd6c019edaf">
 
-<Provide a screenshot of the new coverage results by running the existing tool using all test modifications>
+<img width="710" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/cafd1ae7-5195-4500-a245-a7e428845ed2">
