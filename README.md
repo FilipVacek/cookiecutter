@@ -2,13 +2,13 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: cookiecutter
 
-URL: <TODO>
+URL: https://github.com/cookiecutter/cookiecutter
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 7545 NLOC, counted with lizard
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement with existing tool
 
