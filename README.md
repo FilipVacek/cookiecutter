@@ -29,9 +29,9 @@ The following command was used to generate a coverage report: coverage run --sou
 
 <Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced tests for function 1>
 
-<Provide a screenshot of the old coverage results for such function>
+<img width="709" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/3fd0ceee-904f-47a6-8431-bcd6c019edaf">
 
-<Provide a screenshot of the new coverage results for such function>
+<img width="722" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/b54d9465-b3dc-4869-8341-b50a073f1682">
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
 
