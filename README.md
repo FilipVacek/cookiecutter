@@ -14,7 +14,11 @@ Programming language: Python
 
 The tool used to measure coverage: Coverage.py, pytest
 
-The following command was used to generate a coverage report: coverage run --source tests -m unittest discover && coverage report
+The following commands were used to generate coverage reports:
+
+coverage run --source tests -m unittest discover && coverage report
+
+pytest --cov=cookiecutter tests/
 
 <img width="678" alt="Screenshot 2024-07-11 162819" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/469e1446-172b-4660-9724-d4207e7013cb">
 <img width="425" alt="Screenshot 2024-07-11 162438" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/38bb29d6-6188-41e8-ad7c-3b58f8b38538">
