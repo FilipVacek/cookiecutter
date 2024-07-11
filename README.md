@@ -35,9 +35,13 @@ The is_copy_only_path function, which was previously flagged as missed, has been
 
 Function 2
 
+https://github.com/FilipVacek/cookiecutter/commit/483184fc035b228fc24785b1c5f978d4ddec4905
+
 <img width="722" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/b54d9465-b3dc-4869-8341-b50a073f1682">
 
 <img width="710" alt="image" src="https://github.com/FilipVacek/cookiecutter/assets/121828721/cafd1ae7-5195-4500-a245-a7e428845ed2">
+
+The render_variable function from the 'prompt' module was flagged as missing, so it now has its own test. The coverage of the 'prompt' module has improved by 5%, the coverage of the entire project has improved by 1%.
 
 ### Overall
 
